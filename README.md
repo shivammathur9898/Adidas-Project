@@ -2,7 +2,7 @@
 ### Worked as Sales Analyst
 
 ## Project Overview
-*In this Project of Adidas Company, we gonna Analyse Sales Insights using Microsoft Excel.*
+*In this Project of Adidas Company, we gonna Analyze Sales Insights using Microsoft Excel.*
 
 *Pivot Tables in Excel are powerful features used for data analysis and summarization.
 Pivot Tables can summarize large amounts of data by organizing them into smaller, more manageable tables. 
