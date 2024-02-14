@@ -2,12 +2,10 @@
 ### Worked as Sales Analyst
 
 ## Project Overview
-*In this Project of Adidas Company, we gonna Analyze Sales Insights using Microsoft Excel.*
+*In this Project of Adidas Company, we gonna Analyze Sales Insights using Microsoft Excel. Power Query feature used for 
+Data Analysis and Pivot Table feature is used to find Insights in the data by creating charts and Dashboards. Analysed 
+Sales data and identify areas for improvement for better Decision-Making.*
 
-*Pivot Tables in Excel are powerful features used for data analysis and summarization.
-Pivot Tables can summarize large amounts of data by organizing them into smaller, more manageable tables. 
-Pivot Tables can help create reports and charts to understand trends.
-PivotTables complement PivotCharts by adding visualizations to the summary data, allowing you to easily see comparisons, patterns, and trends.*
 
 ## Tools and Features used
 **Microsoft  Excel**
@@ -15,6 +13,14 @@ PivotTables complement PivotCharts by adding visualizations to the summary data,
 **Power Query**
 
 **Pivot Table**
+
+## Exploratory Questions 
+
+1. Visualize Sales Distribution done in different Cities by Map Filling
+
+2. Visualize Sales Distribution of Sales Method by Retailer using Bar Chart
+
+3. Visualize Dashboard with different Charts and Slicers too
 
 ## Visualizations
 
