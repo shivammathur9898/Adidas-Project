@@ -2,7 +2,7 @@
 ### Worked as Sales Analyst
 
 ## Project Overview
-*In this Project of Adidas Company, we gonna Analyze Sales Insights using Microsoft Excel. Power Query feature used for 
+*In this Project,Sales Insights got analyzed using Microsoft Excel. Power Query feature used for 
 Data Analysis and Pivot Table feature is used to find Insights in the data by creating charts and Dashboards. Analysed 
 Sales data and identify areas for improvement for better Decision-Making.*
 
